@@ -14,6 +14,7 @@ An Excel Dashboard project by **Sagar Dabhade** to analyze hospital emergency ro
 - `Dashboard/Screenshot 2025-09-28 090743.png` → Main Dashboard  
 - `Dashboard/Daily Patient Of ER.png` → Daily Patient Trend  
 - `Dashboard/Average Wait Time Daily Trend.png` → Average Wait Time Trend  
+- `Dashboard/Satisfaction Score Daily Trend.png` → Daily Patient Satisfaction Trend  
 
 ---
 
@@ -25,20 +26,20 @@ An Excel Dashboard project by **Sagar Dabhade** to analyze hospital emergency ro
 ✅ Gender-wise Patient Split  
 ✅ Age-group wise Patient Distribution  
 ✅ Department Referrals (Specialty Analysis)  
-✅ Daily Trends of Patients and Wait Times  
+✅ Daily Trends of Patients, Wait Times & Satisfaction Score  
 
 ---
 
-## 🖼️ Dashboard Screenshots  
-
-### Main Dashboard  
-![](Dashboard/Screenshot%202025-09-28%20090743.png)  
+## 🖼️ Dashboard Visuals  
 
 ### Daily Patient Count  
 ![](Dashboard/Daily%20Patient%20Of%20ER.png)  
 
 ### Daily Average Wait Time  
 ![](Dashboard/Average%20Wait%20Time%20Daily%20Trend.png)  
+
+### Daily Patient Satisfaction Score  
+![](Dashboard/Satisfaction%20Score%20Daily%20Trend.png)  
 
 ---
 
