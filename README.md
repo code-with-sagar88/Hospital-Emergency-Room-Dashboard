@@ -12,9 +12,7 @@ An Excel Dashboard project by **Sagar Dabhade** to analyze hospital emergency ro
 
 ## 📂 Project Files  
 - `Dashboard/Screenshot 2025-09-28 090743.png` → Main Dashboard  
-- `Dashboard/Daily Patient Of ER.png` → Daily Patient Trend  
-- `Dashboard/Average Wait Time Daily Trend.png` → Average Wait Time Trend  
-- `Dashboard/Satisfaction Score Daily Trend.png` → Daily Patient Satisfaction Trend  
+- `Dataset File.csv` → Hospital Emergency Room Data.csv
 
 ---
 
